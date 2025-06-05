@@ -149,3 +149,5 @@ chatbot_project/
    responses = [qa.response for qa in QA.objects.all()]
    ```
 
+### Video Tutorial
+P.S. You can view a video tutorial on how to use the app at this [link](https://drive.google.com/file/d/1dy1k7J8_wGHI_9X2SBhbxHwMPjgky1-N/view?usp=sharing)
