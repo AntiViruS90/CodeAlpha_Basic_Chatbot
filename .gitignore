@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+Chatbot_CodeAlpha/__pycache__/
+chatbot/__pycache__/
+chatbot/migrations/__pycache__/
